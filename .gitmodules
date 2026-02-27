@@ -1,0 +1,66 @@
+[submodule "pet/Autism_Prediction"]
+	path = pet/Autism_Prediction
+	url = https://github.com/KiZlador/ASD_pred.git
+[submodule "pet/Diabet_prediction"]
+	path = pet/Diabet_prediction
+	url = https://github.com/KiZlador/Diabet_predictor
+[submodule "pet/Face_marker"]
+	path = pet/Face_marker
+	url = https://github.com/KiZlador/Face_marker
+[submodule "pet/Movies_RecSys"]
+	path = pet/Movies_RecSys
+	url = https://github.com/KiZlador/Movies_RecSys.git
+[submodule "pet/Sales_prediction"]
+	path = pet/Sales_prediction
+	url = https://github.com/KiZlador/Sales_pred
+[submodule "uni/polyedr68"]
+	path = uni/polyedr68
+	url = https://github.com/KiZlador/polyedr68
+[submodule "uni/polyedr_zkd003"]
+	path = uni/polyedr_zkd003
+	url = https://github.com/KiZlador/polyedr_zkd003
+[submodule "uni/variable_stars"]
+	path = uni/variable_stars
+	url = https://github.com/KiZlador/variable_stars
+[submodule "school21/DS_Bootcamp/Day02"]
+	path = school21/DS_Bootcamp/Day02
+	url = https://git.21-school.ru/students/DS_Bootcamp.Day02.ID_886512/englishg/DS_Bootcamp.Day02-1
+[submodule "school21/DS_Bootcamp/Day03"]
+	path = school21/DS_Bootcamp/Day03
+	url = https://git.21-school.ru/students/DS_Bootcamp.Day03.ID_886513/englishg/DS_Bootcamp.Day03-1
+[submodule "school21/DS_Bootcamp/Day04"]
+	path = school21/DS_Bootcamp/Day04
+	url = https://git.21-school.ru/students/DS_Bootcamp.Day04.ID_886514/englishg/DS_Bootcamp.Day04-1
+[submodule "school21/DS_Bootcamp/Team00"]
+	path = school21/DS_Bootcamp/Team00
+	url = https://git.21-school.ru/students_repo/englishg/DS_Bootcamp.Team00.ID_886515-Team_TL_englishg.6333a6ec_518e_42ad-1
+[submodule "school21/DS_Bootcamp/Day06"]
+	path = school21/DS_Bootcamp/Day06
+	url = https://git.21-school.ru/students_repo/englishg/DS_Bootcamp.Day06.ID_886518-1
+[submodule "school21/DS_Bootcamp/Day07"]
+	path = school21/DS_Bootcamp/Day07
+	url = https://git.21-school.ru/students_repo/englishg/DS_Bootcamp.Day07.ID_886520-1
+[submodule "school21/DS_Bootcamp/Day08"]
+	path = school21/DS_Bootcamp/Day08
+	url = https://git.21-school.ru/students_repo/englishg/DS_Bootcamp.Day08.ID_886521-1
+[submodule "school21/ML/ML01"]
+	path = school21/ML/ML01
+	url = https://git.21-school.ru/students_repo/englishg/ML.Project_1.ID_1254798-1
+[submodule "school21/ML/ML02"]
+	path = school21/ML/ML02
+	url = https://git.21-school.ru/students_repo/englishg/ML.Project_2.ID_1254799-1
+[submodule "school21/ML/ML03"]
+	path = school21/ML/ML03
+	url = https://git.21-school.ru/students_repo/englishg/ML.Project_3.ID_1254800-1
+[submodule "school21/ML/ML04"]
+	path = school21/ML/ML04
+	url = https://git.21-school.ru/students_repo/englishg/ML4_Classification_problems.ID_1254802-1
+[submodule "school21/BSA/BSA00"]
+	path = school21/BSA/BSA00
+	url = https://git.21-school.ru/students_repo/englishg/BSA00_Decomposition.ID_1361439-2
+[submodule "school21/BSA/BSA01"]
+	path = school21/BSA/BSA01
+	url = https://git.21-school.ru/students_repo/englishg/BSA01_Stakeholders.ID_1361441-1
+[submodule "school21/BSA/BSA02"]
+	path = school21/BSA/BSA02
+	url = https://git.21-school.ru/students_repo/englishg/BSA02_Requirements.ID_1361442-1
