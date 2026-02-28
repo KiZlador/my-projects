@@ -24,43 +24,46 @@
 	url = https://github.com/KiZlador/variable_stars
 [submodule "school21/DS_Bootcamp/Day02"]
 	path = school21/DS_Bootcamp/Day02
-	url = https://git.21-school.ru/students/DS_Bootcamp.Day02.ID_886512/englishg/DS_Bootcamp.Day02-1
+	url = https://github.com/KiZlador/DS_Day02
 [submodule "school21/DS_Bootcamp/Day03"]
 	path = school21/DS_Bootcamp/Day03
-	url = https://git.21-school.ru/students/DS_Bootcamp.Day03.ID_886513/englishg/DS_Bootcamp.Day03-1
+	url = https://github.com/KiZlador/DS_Day03
 [submodule "school21/DS_Bootcamp/Day04"]
 	path = school21/DS_Bootcamp/Day04
-	url = https://git.21-school.ru/students/DS_Bootcamp.Day04.ID_886514/englishg/DS_Bootcamp.Day04-1
+	url = https://github.com/KiZlador/DS_Day04
 [submodule "school21/DS_Bootcamp/Team00"]
 	path = school21/DS_Bootcamp/Team00
-	url = https://git.21-school.ru/students_repo/englishg/DS_Bootcamp.Team00.ID_886515-Team_TL_englishg.6333a6ec_518e_42ad-1
+	url = https://github.com/KiZlador/DS_Team00
+[submodule "school21/DS_Bootcamp/Day05"]
+	path = school21/DS_Bootcamp/Day05
+	url = https://github.com/KiZlador/DS_Day05
 [submodule "school21/DS_Bootcamp/Day06"]
 	path = school21/DS_Bootcamp/Day06
-	url = https://git.21-school.ru/students_repo/englishg/DS_Bootcamp.Day06.ID_886518-1
+	url = https://github.com/KiZlador/DS_Day06
 [submodule "school21/DS_Bootcamp/Day07"]
 	path = school21/DS_Bootcamp/Day07
-	url = https://git.21-school.ru/students_repo/englishg/DS_Bootcamp.Day07.ID_886520-1
+	url = https://github.com/KiZlador/DS_Day07
 [submodule "school21/DS_Bootcamp/Day08"]
 	path = school21/DS_Bootcamp/Day08
-	url = https://git.21-school.ru/students_repo/englishg/DS_Bootcamp.Day08.ID_886521-1
+	url = https://github.com/KiZlador/DS_Day08
 [submodule "school21/ML/ML01"]
 	path = school21/ML/ML01
-	url = https://git.21-school.ru/students_repo/englishg/ML.Project_1.ID_1254798-1
+	url = https://github.com/KiZlador/ML1
 [submodule "school21/ML/ML02"]
 	path = school21/ML/ML02
-	url = https://git.21-school.ru/students_repo/englishg/ML.Project_2.ID_1254799-1
+	url = https://github.com/KiZlador/ML2
 [submodule "school21/ML/ML03"]
 	path = school21/ML/ML03
-	url = https://git.21-school.ru/students_repo/englishg/ML.Project_3.ID_1254800-1
+	url = https://github.com/KiZlador/ML3
 [submodule "school21/ML/ML04"]
 	path = school21/ML/ML04
-	url = https://git.21-school.ru/students_repo/englishg/ML4_Classification_problems.ID_1254802-1
+	url = https://github.com/KiZlador/ML4
 [submodule "school21/BSA/BSA00"]
 	path = school21/BSA/BSA00
-	url = https://git.21-school.ru/students_repo/englishg/BSA00_Decomposition.ID_1361439-2
+	url = https://github.com/KiZlador/BSA00
 [submodule "school21/BSA/BSA01"]
 	path = school21/BSA/BSA01
-	url = https://git.21-school.ru/students_repo/englishg/BSA01_Stakeholders.ID_1361441-1
+	url = https://github.com/KiZlador/BSA01
 [submodule "school21/BSA/BSA02"]
 	path = school21/BSA/BSA02
-	url = https://git.21-school.ru/students_repo/englishg/BSA02_Requirements.ID_1361442-1
+	url = https://github.com/KiZlador/BSA02
