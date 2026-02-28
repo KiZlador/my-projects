@@ -22,9 +22,6 @@
 [submodule "uni/variable_stars"]
 	path = uni/variable_stars
 	url = https://github.com/KiZlador/variable_stars
-[submodule "school21/DS_Bootcamp/Day02"]
-	path = school21/DS_Bootcamp/Day02
-	url = https://github.com/KiZlador/DS_Day02
 [submodule "school21/DS_Bootcamp/Day03"]
 	path = school21/DS_Bootcamp/Day03
 	url = https://github.com/KiZlador/DS_Day03
