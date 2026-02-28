@@ -64,3 +64,7 @@
 [submodule "school21/BSA/BSA02"]
 	path = school21/BSA/BSA02
 	url = https://github.com/KiZlador/BSA02
+[submodule "school21/DS_Bootcamp/Day02"]
+	path = school21/DS_Bootcamp/Day02
+	url = https://github.com/KiZlador/DS_Day02
+	branch = master
